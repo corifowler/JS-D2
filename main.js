@@ -16,7 +16,7 @@ var addNums = function () {
   var one = firstNum.value;
   var two = secondNum.value;
   var answer = Number(one) + Number(two);
-  return 'The answer is ' + answer + '.';
+  return answer;
 };
 
 // Function to show answer
