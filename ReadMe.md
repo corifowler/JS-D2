@@ -1,3 +1,4 @@
-#Assignment 6 - Normal Mode
+## Addition Calculator
 
-This adds two different numbers.
+* View project here: http://corifowler.github.io/JS-D2/
+* Built calculator that adds 2 numbers using Javascript
